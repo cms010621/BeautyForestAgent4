@@ -64,7 +64,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(466, 14);
             this.label1.TabIndex = 1;
-            this.label1.Text = "(주)미림스쿨 - Beauty Forest Agent v0.4 by [학번] [이름]";
+            this.label1.Text = "(주)미림스쿨 - Beauty Forest Agent v0.4 by [3216] [최민성]";
             // 
             // btnTray
             // 
@@ -192,7 +192,7 @@
             // 끝내기ToolStripMenuItem1
             // 
             this.끝내기ToolStripMenuItem1.Name = "끝내기ToolStripMenuItem1";
-            this.끝내기ToolStripMenuItem1.Size = new System.Drawing.Size(110, 22);
+            this.끝내기ToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
             this.끝내기ToolStripMenuItem1.Text = "끝내기";
             this.끝내기ToolStripMenuItem1.Click += new System.EventHandler(this.끝내기ToolStripMenuItem1_Click);
             // 
@@ -262,7 +262,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "FormBeauty";
-            this.Text = "Beauty Forest Agent v0.4 by [학번] [이름]";
+            this.Text = "Beauty Forest Agent v0.4 by [3216] [최민성]";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.cmsMenu.ResumeLayout(false);
